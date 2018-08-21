@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+config/sequelizeCLIConfig.json
+package-lock.json
+**/*.DS_Store
